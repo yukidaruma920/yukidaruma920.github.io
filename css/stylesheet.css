@@ -23,7 +23,7 @@ header{
 
 a {
     color: #fff;
-    text-transform: uppercase;
+    text-transform: none;
 }
 
 ul {
@@ -79,7 +79,7 @@ ul li:hover {
 }
 
 .btn4{
-    text-transform: uppercase;
+    text-transform: none;
     text-align: center;
     position: relative;
     text-decoration: none;
